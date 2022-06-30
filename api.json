@@ -1,0 +1,42 @@
+[
+    {
+      "nombre": "Air",
+      "id": 1,
+      "precio": 15,
+      "ingredientes": "Contiene: Pan, 2 medallones de carne vacuna 150g, queso cheddar, cebolla, panceta y salsa de la casa",
+      "imagen": "./assets/hamburguesaAir.png",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Fire",
+      "id": 2,
+      "precio": 17,
+      "ingredientes": "Contiene: Pan, 2 medallones de carne vacuna 150g, queso de cabra, cebolla caramelizada, lechuga y salsa picante de la casa",
+      "imagen": "./assets/hamburguesaFire.png",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Grass",
+      "id": 3,
+      "precio": 21,
+      "ingredientes": "Contiene: Pan, 1 medallon de carne vegetal 200g, queso, lechuga, tomate, cebolla y palta ",
+      "imagen": "./assets/hamburguesaGrass.png",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Sea",
+      "id": 4,
+      "precio": 19,
+      "ingredientes": "Contiene: Pan, 2 medallones de carne vacuna 100g, queso cheddar, pepino, lechuga y salsa de la casa",
+      "imagen": "./assets/hamburguesaSea.png",
+      "cantidad": 0
+    },
+    {
+      "nombre": "Rock",
+      "id": 5,
+      "precio": 16,
+      "ingredientes": "Contiene: Pan, 1 medallon de carne vacuna 200g, queso, cebolla caramelizada, lechuga y salsa barbacoa",
+      "imagen": "./assets/hamburguesaRock.png",
+      "cantidad": 0
+    }
+]
